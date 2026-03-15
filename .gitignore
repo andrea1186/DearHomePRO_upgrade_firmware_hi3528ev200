@@ -1,0 +1,6 @@
+# local artifacts
+*.tgz
+*.bin
+*.img
+*.md5sum
+*.sha256
